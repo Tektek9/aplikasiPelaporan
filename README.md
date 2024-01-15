@@ -5,6 +5,7 @@ Java Android Aplikasi Pelapor
 - Notikasi admin apabila ada laporan yang belum dikerjakan
 - Role user & admin
 - Login & Register
+- DB Firebase
 
 ![image](https://github.com/Tektek9/aplikasiPelaporan/blob/main/ss/1.png)
 
